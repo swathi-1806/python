@@ -4,3 +4,12 @@ if input_fruit in fruits:
     print("fruit found")
 else:
     print("fruit not found")
+
+"""
+output:-
+enter a fruit: grapes
+fruit found
+-------------------------
+enter a fruit: litchi
+fruit not found
+"""
