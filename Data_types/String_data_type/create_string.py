@@ -11,3 +11,16 @@ message="""python is easy
 python is powerfull
 python is popular"""
 print(message)
+
+
+"""
+output:
+---usg_single_quotes---
+swathi
+---usg_double_quotes---
+it's beautiful day
+---usg_triple_quotes---
+python is easy
+python is powerfull
+python is popular
+"""
