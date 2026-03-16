@@ -6,6 +6,7 @@ student={
 student.pop("branch")
 print(student)
 
+
 """
 output:
 {'name': 'swathi', 'age': 21}
