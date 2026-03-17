@@ -1,3 +1,4 @@
+#condition
 print("print 10<5:", 10<5)
 print("print 10>5:", 10>5)
 print("print 10==5:", 10==5)
