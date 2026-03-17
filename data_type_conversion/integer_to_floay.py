@@ -1,10 +1,10 @@
-a="25"
-b=int(a)
+a=10
+b=float(a)
 print(b)
 print(type(b))
 
 """
 output
-25
-<class 'int'>
+10.0
+<class 'float'>
 """
