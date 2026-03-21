@@ -1,7 +1,7 @@
 #integer to float conversion
 
-a=10
-b=float(a)
+a=10        #integer
+b=float(a)  
 print(b)
 print(type(b))
 
