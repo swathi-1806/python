@@ -7,3 +7,15 @@ while i<=10:
         
     i=i+1
 print("the code is executed successfully")  
+
+"""
+output"-
+n=10
+2
+4
+6
+8
+10
+the code is executed successfully
+"""  
+
