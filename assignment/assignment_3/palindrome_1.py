@@ -1,3 +1,5 @@
+#palindrome:-
+
 str1=input("enter the input:")
 str2=str1[::-1]
 if str2==str1:
@@ -5,6 +7,7 @@ if str2==str1:
 else:   
     print("the string is not palindrome")
 print("the code is executed successfully")
+
 
 """
 OUTPUT:
