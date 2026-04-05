@@ -19,3 +19,16 @@ print(f"total marks: {total_marks}")
 print(f"average marks: {avg_marks}")
 print(f"percentage: {percentage}%")
 print(f"grade: {grade}")
+
+"""
+output:
+enter the telugu marks(t/100):92
+enter the hindi marks(h/100):80
+enter the english marks(e/100):50
+enter the maths marks(m/100):94
+enter the science marks(s/100):89
+total marks: 405
+average marks: 81.0
+percentage: 81.0%
+grade: A
+"""
