@@ -4,6 +4,7 @@ if str2==str1:
     print("the string is palindrome")
 else:   
     print("the string is not palindrome")
+    
 print("the code is executed successfully")
 
 """
