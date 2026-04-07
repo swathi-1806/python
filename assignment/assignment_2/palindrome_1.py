@@ -13,4 +13,8 @@ OUTPUT:
 enter the input:radar
 the string is palindrome
 the code is executed successfully
+----------------------------------
+enter the input:python
+the string is not palindrome
+the code is executed successfully
 """
