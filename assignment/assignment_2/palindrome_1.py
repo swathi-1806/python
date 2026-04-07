@@ -7,6 +7,7 @@ else:
     
 print("the code is executed successfully")
 
+
 """
 OUTPUT:
 enter the input:radar
