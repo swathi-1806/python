@@ -1,3 +1,4 @@
+
 """
 =======================================================================================================
 is creates a t1.txt in a specified path and writes the data into it
@@ -18,9 +19,11 @@ f.close()
 
 """
 the t1.txt consists of
+=======================================================================================================
 This is my first file handling program in python
 I am learning how to read and write files in python
 File handling is an important concept in programming
 With file handling, we can create, read, update, and delete files in python
 File handling is a powerful tool for data storage and manipulation in python
+=======================================================================================================
 """
