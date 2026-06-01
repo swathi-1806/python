@@ -1,3 +1,9 @@
+"""
+=======================================================================================================
+is creates a t1.txt in a specified path and writes the data into it
+=======================================================================================================
+"""
+
 f = open("C:/Users/swath/Desktop/python/my_python/file_handling/t1.txt", "w")
 
 f.write(
