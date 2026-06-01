@@ -1,5 +1,4 @@
-
-## append : it is used to erite the dat into the file in won't override
+# append : it is used to erite the dat into the file in won't override
 
 # ================================================================================================
 
@@ -29,6 +28,8 @@ f.close()
 """
 now file consists of :
 
+# ================================================================================================
+
 This is my first file handling program in python
 I am learning how to read and write files in python
 File handling is an important concept in programming
@@ -39,6 +40,7 @@ FFFF
 EF11
 10AB
 ABCD
+# ================================================================================================
 
 """
 
