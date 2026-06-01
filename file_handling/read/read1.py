@@ -1,3 +1,4 @@
+
 f= open("C:/Users/swath/Desktop/python/my_python/file_handling/t1.bin", "wb")
 f.write(b"101010\n"
         b"111111\n"
