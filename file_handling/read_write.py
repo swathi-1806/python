@@ -1,3 +1,4 @@
+
 f = open("C:/Users/swath/Desktop/python/my_python/file_handling/t1.txt", "w")
 
 f.write("welcome to india\n"
