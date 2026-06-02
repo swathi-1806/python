@@ -1,3 +1,18 @@
+"""
+====================================================================
+f.read() returns the entire file as one string.
+for line in content:
+
+Python iterates through the string one character at a time
+
+we have to use  methods like 
+- read line by line using readline() or readlines()
+- split the content into lines using splitlines() or split("\n")
+- use strip() to remove any leading or trailing whitespace characters from each line
+
+====================================================================
+"""
+
 f = open("C:/Users/swath/Desktop/git_repositories/python/file_handling/other_practices(split&strip)/file2.txt", "w")
 f.write("pyhron is a open source language\n"
         "python is a high level language\n"
