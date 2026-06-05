@@ -16,17 +16,40 @@ with splitlines()
 pyhton is a open source language
 """
 
-f = open("C:/Users/swath/Desktop/git_repositories/python/file_handling/other_practices(split&strip)/file2.txt", "w")
+f = open("C:/Users/swath/Desktop/git_repositories/python/file_handling/other_practices(split&strip)/file3.txt", "w")
 f.write("pyhron is a open source language\n"
         "python is a high level language\n"
         "python is a interpreted language\n")
 f.close()
 
-f = open("C:/Users/swath/Desktop/git_repositories/python/file_handling/other_practices(split&strip)/file1.txt", "r")
+f = open("C:/Users/swath/Desktop/git_repositories/python/file_handling/other_practices(split&strip)/file3.txt", "r")
+
 for line in f:
     line = line.strip()
-for word in line:
-    word = word.split()
-    print(line)
-   
+    words = line.split()
+
+    for word in words:
+        print(word)
+
 f.close()
+
+"""
+output:
+pyhron
+is
+a
+open
+source
+language
+python
+is
+a
+high
+level
+language
+python
+is
+a
+interpreted
+language
+"""
