@@ -1,0 +1,6 @@
+pyhron is a open source language
+python is a high level language
+python is a interpreted language
+python is a object oriented language
+python is a easy to learn language
+we use python scripting language for verification
